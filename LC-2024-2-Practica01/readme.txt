@@ -1,0 +1,10 @@
+- Lógica Computacional 2024-2
+- Profesor: Francisco Hernández Quiroz
+- Ayudante: Marco Vladimir Lemus Yáñez
+- Ayudante: Naomi Itzel Reyes Granados
+- Laboratorio: Emiliano Galeana Araujo
+- Laboratorio: José Ricardo Desales Santos
+- Practica 1: Recordando Haskell. Árboles
+- Integrantes:
+- Del Monte Ortega Maryam Michelle
+- Monroy Romero Sahara Mariel
